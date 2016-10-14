@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Oct 15 00:03:12 CST 2016
+2.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_d.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_a.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_e.xml
+5.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_b.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_c.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Final Project\\MindHelper+play1\\FragmentViewPagerTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526fadb8d08b7ebb98a9d2f2675c1604d6ff13e2">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3d9e8cf0c87618b449842142683d8ad59f6f7b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_aaff158c21f9c64af73703222ed45cd055749b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1d123db2970742f310bcd5d410747df59e00dae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5966cea64717e4480cf21ee2c34eeec6cce51ee">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\instant-run_f6e67f6e2db100d9be3f8272fe61f94971be5527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_019ff2e2ed2d78d9b1b3ac4f1c01a59e9b81efa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c244a112a8986cb9df5d206686ca1c0380febe5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_df7b0195cc21dcd58341fa96df2675d8666f83b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d91f2f1c8600b3f38be585cae8de7a7fd3f64a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SW\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_15045ea7d8a39a205efd925078c282af02dea75a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_2edaf8d8457eba0efe890e6dd4580fcaa33fdfe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2ef2b6ce9758054ed7ecf3765dbbac39017f103f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a4d62c552d5a8f1ba0ffdf3e4aee012631527b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_753ba48330617fd3b783465e19ad373a29d623b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Final Project\MindHelper+play1\FragmentViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c9f720c8a5e13597a24caecda645a033efc5205c.jar" />
+    </item>
+
+</items>
